@@ -59,7 +59,10 @@ Los atajos en VS Code, permiten al desarrollador evitar el uso del mouse al mome
 
 Markdown es un lenguaje de marcado ligero que se utiliza para formatear texto de manera sencilla y legible. Con Markdown, puedes agregar rápidamente encabezados, listas, enlaces e incluso imágenes a tus documentos sin tener que preocuparte por la sintaxis de HTML. Es ampliamente utilizado en diversas plataformas, como blogs, foros y plataformas de escritura colaborativa, debido a su simplicidad y facilidad de uso.
 
+
+
 `*letra cursiva*`
+`**letra negrita**`
 
 ## clase 2  
 
