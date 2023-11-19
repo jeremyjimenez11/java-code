@@ -82,7 +82,7 @@ Para ingresar encabezados se utiliza `#`, con diferentes niveles del 1 al 6.
 
 ---
 
-### GIT 
+### GIT
 <!-- Clase #2 9/11/2023 -->
 
  introduccion a git en la clase solo se habla de la importancia de usar git en el mundo de la programación 
@@ -93,7 +93,7 @@ Para ingresar encabezados se utiliza `#`, con diferentes niveles del 1 al 6.
 
 ---
 
-### Java 
+### Java
 <!-- Clase #3 10/11/2023 -->
 
 introducción a java  
